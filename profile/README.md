@@ -22,6 +22,18 @@ By integrating these approaches, we enable **impact assessment**, providing data
 
 ![image](https://github.com/user-attachments/assets/d405623d-474e-4dce-8e32-c0609094dbfd)
 
+| Project        | Members       |                                                                            
+|----------------|--------------------------------------------------------------------------------------------|
+| **SUM**        | Yimeng Zhang, Jingyi Cheng, Mesut Can Koseoglu, Zhenyu Wu, Arjan de Ruijter,              | 
+|                | Mahsa Farhani, Sara Momen                                                                 |  
+| **SINERGI**    | Kuldeep Kavta, Dongyang Xia, Serkan Ozdemir                                               | 
+| **RWS**        | Nirmal Sitaldin                                                                            | 
+| **XCARCITY**   | Jyotsna Singh, Nourhan Shokry, Mohammad Jafari, Jingjun Li                                |
+| **V2G-QUEST**  | Qiaochu Fan                                                                                | 
+| **metaCCAZE**  | Leonor Gomes, Jiri Spitzer                                                                 |
+| **SCUDO**      | Positions to be filled in Spring 2025                                                     | 
+| **Clean City** | Positions to be filled in Spring 2025                                                     | 
+
 ## 📂 Repositories Overview
 Below is an overview of our repositories and how they align with our research topics and projects.
 
