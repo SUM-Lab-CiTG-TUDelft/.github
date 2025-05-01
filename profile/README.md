@@ -24,7 +24,7 @@ By integrating these approaches, we enable **impact assessment**, providing data
 
 | Lab Co-ordinator: Dr. S.(Shadi) Sharif Azadeh | Lab Co-ordinator: Dr. M.(Maaike) Snelder |
 |----------------------------------------------|-------------------------------------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/f7adbf63-a193-4575-a695-56e373ca18cd" width="100" height="130"><br>[Dr. S.(Shadi) Sharif Azadeh Research Information](https://research.tudelft.nl/en/persons/s-sharif-azadeh)</div> | <div align="center"><img src="https://github.com/user-attachments/assets/ed0687ed-b334-4f4f-9ae3-8c1d756f0adb" width="130" height="130"><br>[Dr. M.(Maaike) Snelder Research Information](https://research.tudelft.nl/en/persons/m-snelder)</div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/f7adbf63-a193-4575-a695-56e373ca18cd" width="100" height="130"><br>[Research Information](https://research.tudelft.nl/en/persons/s-sharif-azadeh)</div> | <div align="center"><img src="https://github.com/user-attachments/assets/ed0687ed-b334-4f4f-9ae3-8c1d756f0adb" width="130" height="130"><br>[Research Information](https://research.tudelft.nl/en/persons/m-snelder)</div> |
 
 
 | Project        | Members       |                                                                            
