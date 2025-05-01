@@ -45,6 +45,9 @@ Below is an overview of our repositories and how they align with our research to
 | Repository | Research Topic | Related Projects |
 |------------|---------------|------------------|
 | [Integrated timetabling and vehicle scheduling model](https://github.com/SUM-Lab-CiTG-TUDelft/TTVSP) | Operations Research | -- |
+| [Dynamic Fleet Management of Waterborne Vessels for Mixed Services](https://github.com/SUM-Lab-CiTG-TUDelft/DynamicFleetManagementForMixedService) | Operations Research | SUM (Master Thesis)|
+| [Discrete Choice Models for Behaviour of Riders in Last Mile Food Delivery Business](https://github.com/SUM-Lab-CiTG-TUDelft/DCM_SINERGI) | Behavioral Analytics | SINERGI |
+
 
 
 ## 🛠️ Contributing
