@@ -22,15 +22,20 @@ By integrating these approaches, we enable **impact assessment**, providing data
 
 ![image](https://github.com/user-attachments/assets/d405623d-474e-4dce-8e32-c0609094dbfd)
 
+| Lab Co-ordinator: Dr. S.(Shadi) Sharif Azadeh | Lab Co-ordinator: Dr. M.(Maaike) Snelder |
+|----------------------------------------------|-------------------------------------------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/f7adbf63-a193-4575-a695-56e373ca18cd" width="100" height="130"><br>[Dr. S.(Shadi) Sharif Azadeh](https://research.tudelft.nl/en/persons/s-sharif-azadeh)</div> | <div align="center"><img src="https://github.com/user-attachments/assets/ed0687ed-b334-4f4f-9ae3-8c1d756f0adb" width="130" height="130"><br>[Dr. M.(Maaike) Snelder](https://research.tudelft.nl/en/persons/m-snelder)</div> |
+
+
 | Project        | Members       |                                                                            
 |----------------|--------------------------------------------------------------------------------------------|
-| **SUM**        | Yimeng Zhang, Jingyi Cheng, Mesut Can Koseoglu, Zhenyu Wu, Arjan de Ruijter,              | 
-|                | Mahsa Farhani, Sara Momen                                                                 |  
-| **SINERGI**    | Kuldeep Kavta, Dongyang Xia, Serkan Ozdemir                                               | 
-| **RWS**        | Nirmal Sitaldin                                                                            | 
-| **XCARCITY**   | Jyotsna Singh, Nourhan Shokry, Mohammad Jafari, Jingjun Li                                |
-| **V2G-QUEST**  | Qiaochu Fan                                                                                | 
-| **metaCCAZE**  | Leonor Gomes, Jiri Spitzer                                                                 |
+| **SUM**        | [Yimeng Zhang](https://research.tudelft.nl/en/persons/y-zhang-8), [Rina(Jingyi) Cheng](https://research.tudelft.nl/en/persons/rina-jingyi-cheng), Mesut Can Koseoglu, Zhenyu Wu, [Arjan de Ruijter](https://research.tudelft.nl/en/persons/ajf-de-ruijter),              | 
+|                | Mahsa Farhani, [Sara Momen](https://research.tudelft.nl/en/persons/s-momen)                                                                 |  
+| **SINERGI**    | [Kuldeep Kavta](https://research.tudelft.nl/en/persons/k-kavta), [Dongyang Xia](https://research.tudelft.nl/en/persons/dongyang-xia/publications/), [Serkan Ozdemir](https://research.tudelft.nl/en/persons/s-ozdemir)                                               | 
+| **RWS**        | [Nirmal Sitaldin](https://research.tudelft.nl/en/persons/n-sitaldin)                                                                            | 
+| **XCARCITY**   | [Jyotsna Singh](https://research.tudelft.nl/en/persons/j-singh-2), [Nourhan Shokry](https://research.tudelft.nl/en/persons/n-shokry), [Mohammad Jafari](https://research.tudelft.nl/en/persons/m-jafari), [Jingjun Li](https://research.tudelft.nl/en/persons/j-li-14)                                |
+| **V2G-QUEST**  | [Qiaochu Fan](https://research.tudelft.nl/en/persons/q-fan-2)                                                                                | 
+| **metaCCAZE**  | [Leonor Gomes](https://research.tudelft.nl/en/persons/l-gomes), [Jiri Spitzer](https://research.tudelft.nl/en/persons/j-spitzer)                                                                 |
 | **SCUDO**      | Positions to be filled in Spring 2025                                                     | 
 | **Clean City** | Positions to be filled in Spring 2025                                                     | 
 
